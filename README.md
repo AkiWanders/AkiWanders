@@ -32,10 +32,10 @@ experiments.
 
 ### 🧭 How I work
 
-- 🌱 **Learning in public** — done beats perfect
-- 📦 **One project per repo**, always with a real README
-- 🧩 **Small, frequent commits** ([Conventional Commits](https://www.conventionalcommits.org/))
-- ☕ Probably refactoring something at 2am
+- **One project per repository**, each with a clear README and setup steps
+- **Small, focused commits** following [Conventional Commits](https://www.conventionalcommits.org/)
+- **Continuous learning** — I build projects to understand how things work
+- **Careful with history** — meaningful commit messages over quick throwaways
 
 ---
 
