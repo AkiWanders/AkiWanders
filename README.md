@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Aki 👋
 
-<!--
-**AkiWanders/AkiWanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, complete apps for fun — mostly to learn how things work.
+This account is my **workshop**: passion projects, experiments, and things
+I'm figuring out as I go.
 
-Here are some ideas to get you started:
+## 🔨 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 **Games Rater** — rate and rank games across granular gameplay categories
+  _(Python · Flask · vanilla JS)_
+- 🎨 **Pixel Palette** — extract, edit and export colour palettes from pixel art
+  _(Python · Flask · Pillow)_
+- 🎵 **AkiRater** — a lightweight, installable app for rating albums _(HTML · PWA)_
+
+## 🧰 Tools I reach for
+
+`Python` `Flask` `JavaScript` `HTML/CSS` `Git`
+
+## 🧭 How I work
+
+- Small, frequent commits with [Conventional Commits](https://www.conventionalcommits.org/)
+- One project per repo, documented with a real README
+- Learning in public — done beats perfect
+
+## 📫 Say hi
+
+Found something interesting or broken? Open an issue on any repo — I read them.
