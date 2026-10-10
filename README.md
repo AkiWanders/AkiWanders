@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hey, I'm Aki 👋
+# Hey, I'm Aki
 
-**I build small, complete apps for fun — mostly to learn how things work.**
+**I build small, complete apps for my everyday use and fun — mostly for learning.**
 
 This account is my workshop 🛠️ — passion projects, half-finished
-experiments, and whatever I'm obsessed with this week.
+experiments.
 
 </div>
 
@@ -16,7 +16,7 @@ experiments, and whatever I'm obsessed with this week.
 | | Project | What it does |
 |---|---|---|
 | 🎮 | **[Games Rater](https://github.com/AkiWanders/Games_Rater_V0.1)** | Rate & rank games across granular gameplay categories |
-| 🎨 | **[Pixel Palette](https://github.com/AkiWanders/pixel-palette)** | Pull editable colour palettes out of pixel art |
+| 🎨 | **[Pixel Palette](https://github.com/AkiWanders/pixel-palette)** | Pull editable colour palettes out of pixel art for my digital art workflow |
 | 🎵 | **[AkiRater](https://github.com/AkiWanders/AkiRater)** | Rate & rank albums — installable, works offline |
 
 ### 🧰 Toolbox
