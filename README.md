@@ -13,11 +13,23 @@ experiments.
 
 ### 🔨 What I'm building
 
-| | Project | What it does |
-|---|---|---|
-| 🎮 | **[Games Rater](https://github.com/AkiWanders/Games_Rater_V0.1)** | Rate & rank games across granular gameplay categories |
-| 🎨 | **[Pixel Palette](https://github.com/AkiWanders/pixel-palette)** | Pull editable colour palettes out of pixel art for my digital art workflow |
-| 🎵 | **[AkiRater](https://github.com/AkiWanders/AkiRater)** | Rate & rank albums — installable, works offline |
+**🎮 [Games Rater](https://github.com/AkiWanders/Games_Rater_V0.1)** · `Python` `Flask` `JavaScript`
+
+Rate and rank games through a structured questionnaire instead of a single
+subjective score. Art, sound, gameplay and story are scored individually, then
+combined into a balanced final rating — with cover-art support and a sorted
+dashboard.
+
+**🎨 [Pixel Palette](https://github.com/AkiWanders/pixel-palette)** · `Python` `Flask` `Pillow` `NumPy` `scikit-learn`
+
+A single-page tool that pulls editable colour palettes out of pixel art. Upload
+an image, extract colours with K-means, median cut or manual picking, retarget
+swatches on the canvas, then export to PNG, GPL (GIMP) or ASE (Adobe).
+
+**🎵 [AkiRater](https://github.com/AkiWanders/AkiRater)** · `HTML` `JavaScript` `PWA`
+
+A lightweight, installable app for rating and ranking albums against a personal
+rubric. It works offline after the first load and installs to your home screen.
 
 ### 🧰 Toolbox
 
@@ -29,13 +41,6 @@ experiments.
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
-### 🧭 How I work
-
-- **One project per repository**, each with a clear README and setup steps
-- **Small, focused commits** following [Conventional Commits](https://www.conventionalcommits.org/)
-- **Continuous learning** — I build projects to understand how things work
-- **Careful with history** — meaningful commit messages over quick throwaways
 
 ---
 
