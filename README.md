@@ -2,7 +2,7 @@
 
 # Hey, I'm Aki
 
-**I build small, complete apps for my everyday use and fun — mostly for learning.**
+**I build small, complete apps for everyday use and for fun — mostly for learning.**
 
 This account is my workshop 🛠️ — passion projects, half-finished
 experiments.
